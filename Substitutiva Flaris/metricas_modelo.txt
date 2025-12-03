@@ -1,0 +1,15 @@
+Métricas do Modelo de Regressão Linear
+==================================================
+
+RMSE: 173461.18
+MAE: 121864.54
+R²: 0.7145
+
+Coeficientes:
+(Intercept): -12642.7
+area_primeiro_andar: 4368.39
+existe_segundo_andar: -127391.0
+area_segundo_andar: 4217.84
+quantidade_banheiros: 76207.77
+capacidade_carros_garagem: 4568.11
+qualidade_da_cozinha_Excelente: 303376.31
