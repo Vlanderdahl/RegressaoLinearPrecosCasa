@@ -1,0 +1,14 @@
+Avaliação do Modelo de Regressão Linear
+==================================================
+
+Métricas:
+  MSE: 3.061696693963e10
+  RMSE: 174977.05
+  MAE: 123329.25
+  R²: 0.6866
+
+Estatísticas:
+  Média valores reais: 841903.7
+  Média predições: 858783.19
+  Outliers nas predições: 3
+  Erro percentual médio: 16.84%
